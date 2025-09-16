@@ -28,4 +28,11 @@ Saku-Yaiba
      @@%@#@@       
      :@@@@
 ```
+## [Binary](https://github.com/Sakuya133/HCS-Internal-Selection-2025/tree/main/Binary)
+## [Cryptography](https://github.com/Sakuya133/HCS-Internal-Selection-2025/tree/main/Cryptography)
+## [Forensics](https://github.com/Sakuya133/HCS-Internal-Selection-2025/tree/main/Forensics)
+## [Misc](https://github.com/Sakuya133/HCS-Internal-Selection-2025/tree/main/Misc)
+## [OSINT](https://github.com/Sakuya133/HCS-Internal-Selection-2025/tree/main/OSINT)
+## [Reverse](https://github.com/Sakuya133/HCS-Internal-Selection-2025/tree/main/Reverse)
+## []
 
