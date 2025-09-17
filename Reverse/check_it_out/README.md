@@ -12,7 +12,7 @@
  foto
 ##### Gambar: file Main.java
   <br>
-  ```java
+```java
   import java.util.Scanner;
 
 public class Main{
@@ -60,7 +60,7 @@ public class Main{
                 System.out.println("Incorrect password (character mismatch detected).");
         }
 } 
-  ```
+```
   `Saat kode di jalankan, program akan meminta input dari user, jika jawaban tersebut adalah "flag" maka akan ter output "Correct! (checked character by character)". Ada sebuah fungsi if else yang akan memeriksa satu per satu char dari string yang diinput user, kita coba rangkai char tersebut dan hasilnya adalah "HCS{Ju4G0_Bw4nG}", kita coba input ke program.`
   <br>
   ##### Gambar: flag ditemukan
