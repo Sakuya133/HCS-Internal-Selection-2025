@@ -94,3 +94,12 @@ _init
 `Ada sebuah kumpulan strings yang dimulai dengan format "HCS{" dan diakhiri dengan "}", itulaj flag dari soal ini`
 
 ## Flag = HCS{ctf_gjls_hadiah_elit__ayaya}
+
+
+
+
+
+
+
+  <br>
+  <br>
