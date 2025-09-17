@@ -5,14 +5,14 @@
 
 > Author: Hanz
 
-
 - Explanation
 
   `Pada challenge ini, kita diberikan 1 file "chall", tanpa extension apapun `
   <br>
-  foto chall
+  <img width="248" height="98" alt="Screenshot from 2025-09-18 06-25-20" src="https://github.com/user-attachments/assets/1ad253d5-070c-4d6a-99f1-d9cd98f8729c" /> <br>
+  ##### Gambar: file chal
   <br>
-   `Jika kita perhatikan judul soal ini, tertulis "strings", dilinux/unix sendiri ada command strings, yang berfungsi mengekstrak teks yang bisa dibaca manusia dari file yang di target. Kita coba pendekatan tersebut pada file "chall".`
+   `Jika kita perhatikan judul soal ini, tertulis "strings", linux/unix sendiri memiliki command strings, yang berfungsi mengekstrak teks yang bisa dibaca manusia dari file yang ditarget. Kita coba pendekatan tersebut pada file "chal".`
 ```
    /lib64/ld-linux-x86-64.so.2
 __libc_start_main
@@ -90,16 +90,7 @@ _init
 .bss
 .comment
 ```
-
+##### Gambar: Hasil dari "strings chal"
 `Ada sebuah kumpulan strings yang dimulai dengan format "HCS{" dan diakhiri dengan "}", itulaj flag dari soal ini`
 
 ## Flag = HCS{ctf_gjls_hadiah_elit__ayaya}
-
-
-
-
-
-
-
-  <br>
-  <br>
