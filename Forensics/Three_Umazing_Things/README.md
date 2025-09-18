@@ -24,7 +24,7 @@ dan steghide
 ### sedihakuwak.png
 <img width="1295" height="929" alt="image" src="https://github.com/user-attachments/assets/9f1292a4-9871-4d8c-8763-a5315631a880" />
 
-## Flag = 
+## Flag = otw (kalau masib boleh/ TSakuya lupa tools yang mana untuk foto yang mana)
 
 
 
@@ -33,4 +33,5 @@ dan steghide
 
   <br>
   <br>
+
 
