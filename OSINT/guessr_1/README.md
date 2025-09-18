@@ -22,9 +22,15 @@
 <br>
 <img width="847" height="652" alt="image" src="https://github.com/user-attachments/assets/e362c7ab-fecf-4962-a4e5-170c5f2df4f6" />
 
+### Clue 3 = Lokasi ada di dalam bukan menuju diluar
+<img width="287" height="183" alt="image" src="https://github.com/user-attachments/assets/e2a140f0-ea88-4b71-bac7-165419f83c98" />
+
+#### Kesimpulan awal = Belgia, pemain Belgia, jalan menuju luar == Circuit yang ada di Bergia
 
 
-## Flag = HCS{ctf_gjls_hadiah_elit__ayaya}
+## Lokasi = Circuit de Spa-Francorchamps
+<img width="2162" height="774" alt="image" src="https://github.com/user-attachments/assets/c30d36d2-7097-4299-b8e6-43ce7dd03b11" />
+
 
 
 
@@ -34,3 +40,4 @@
 
   <br>
   <br>
+
