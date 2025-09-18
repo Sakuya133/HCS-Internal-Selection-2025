@@ -7,11 +7,11 @@
 
 - Explanation
 
-  `Pada challenge ini, kita diberikan 1 file "Main.java", sudah terlihat pada file ini, tersimpan code java`
+  <p>Pada challenge ini, kita diberikan 1 file "Main.java", sudah terlihat pada file ini, tersimpan code java</p>
   <br>
   <img width="248" height="98" alt="Screenshot from 2025-09-18 07-04-22" src="https://github.com/user-attachments/assets/4631461f-4f8d-4211-a4dd-5a0f943686ba" />
-##### Gambar: file Main.java
-  <br>
+  
+### Main.java
 ```java
 
     import java.util.Scanner;
@@ -62,18 +62,17 @@
             }
     } 
 ```
-##### Gambar: code java dari file
-```
 
-<br>
+
  
-`Saat kode di jalankan, program akan meminta input dari user, jika jawaban tersebut adalah "flag" maka akan ter output "Correct! (checked character by character)". Ada sebuah fungsi if else yang akan memeriksa satu per satu char dari string yang diinput user, kita coba rangkai char tersebut dan hasilnya adalah "HCS{Ju4G0_Bw4nG}", kita coba input ke program.`
+<p>Saat kode di jalankan, program akan meminta input dari user, jika jawaban tersebut adalah "flag" maka akan ter output "Correct! (checked character by character)". Ada sebuah fungsi if else yang akan memeriksa satu per satu char dari string yang diinput user, kita coba rangkai char tersebut dan hasilnya adalah "HCS{Ju4G0_Bw4nG}", kita coba input ke program.</p>  
 
 <br>
 <img width="667" height="143" alt="Screenshot from 2025-09-18 07-07-13" src="https://github.com/user-attachments/assets/615993a0-990a-4f95-bf20-91611ca295aa" />
 
 <br>
-Gambar: flag ditemukan
+Flag ditemukan
 <br>
+
 ## Flag = HCS{Ju4G0_Bw4nG}
 
