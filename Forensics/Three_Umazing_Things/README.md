@@ -8,6 +8,7 @@
 <img width="1091" height="430" alt="image" src="https://github.com/user-attachments/assets/f210bcde-612a-4ea0-a7c9-2249870a4c7d" />
 
 <p>dan didapatkan ke 3 tools tersebut adalah</p>
+
 ```
 zsteg, 
 binwalk,
@@ -32,3 +33,4 @@ dan steghide
 
   <br>
   <br>
+
