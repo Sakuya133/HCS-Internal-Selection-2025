@@ -1,4 +1,4 @@
-<img width="1285" height="799" alt="image" src="https://github.com/user-attachments/assets/9bcca38d-3d70-494b-8fe9-1100a6d9d6b3" />## guessr 2 - [100 point]
+## guessr 2 - [100 point]
 
 
 > i dont understand the local language and lost my friend on the way. can you find out where i'm so my friend can pick me up?
@@ -18,6 +18,7 @@
 
 ### Clue 3 = Patung Emas
 <img width="215" height="357" alt="image" src="https://github.com/user-attachments/assets/2080c9c2-550b-48fb-8168-875ef0ae5ce2" />
+
 ### Princess Turandot Fountain-Monument, Moscow
 
 #### Kesimpulan awal = Bukan Itali, Tulisan Russia, Patung emas di Moscow
@@ -35,3 +36,4 @@
 
   <br>
   <br>
+
