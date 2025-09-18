@@ -10,7 +10,7 @@
   
 <p>Pendekatan yang saya lakukan yaitu dengan brute force password dengan wordlist yang sudah disediakan pada Parrot OS</p>
 
-## Flag = 
+## Flag =(Otw kalau masih boleh commit (TSakuya lupa katanya mau bruteforce ulang))
 
 
 
@@ -19,3 +19,4 @@
 
   <br>
   <br>
+
