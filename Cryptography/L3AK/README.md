@@ -39,6 +39,8 @@ what = 4701066001566933468539295457165541117336002410834834617743586840140912396
 ```
 <p> Ini merupakan RSA sederhana, bisa dilihat pada</p>
 https://id.wikipedia.org/wiki/RSA
+<p>Jika what ≡ d mod (p−1), maka x = ct^what (mod n) akan memenuhi x ≡ m (mod p) dengan m adalah plaintext. Akibatnya, x^e ≡ m^e ≡ ct (mod p), sehingga p membagi (x^e − ct). Hal ini membuat gcd(x^e − ct, n) menghasilkan faktor non-trivial, yaitu p. Setelah n terfaktorisasi, kita dapat menghitung d dan melakukan dekripsi.
+</p>
 
 ### decode.py
 ```py
@@ -72,6 +74,7 @@ print("flag:", long_to_bytes(m))
  <p></p>
  
 ## Flag = HCS{leak_l3ak_l34k_i_hate_leaks_65746572}
+
 
 
 
