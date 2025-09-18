@@ -71,12 +71,9 @@
 
 <br>
 <img width="667" height="143" alt="Screenshot from 2025-09-18 07-07-13" src="https://github.com/user-attachments/assets/615993a0-990a-4f95-bf20-91611ca295aa" />
-<br>
-##### Gambar: flag ditemukan
-<br>
 
-`Flag ditemukan`
-  
-
+<br>
+Gambar: flag ditemukan
+<br>
 ## Flag = HCS{Ju4G0_Bw4nG}
 
